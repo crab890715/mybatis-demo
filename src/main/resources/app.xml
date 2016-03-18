@@ -27,7 +27,7 @@
     <javaClientGenerator targetPackage="com.beacon.wechat.service.dao" targetProject="D:\eclipse\workspace\beacon-wechat\beacon-wechat-service\src\main\java" type="XMLMAPPER">
 		<property name="enableSubPackages" value="true"/>    
 	</javaClientGenerator> 
-    <table schema="shopnc_store_account" tableName="shopnc_store_account" domainObjectName="StoreAccount" enableCountByExample="false" enableUpdateByExample="false"  
+    <table schema="shopnc_store_account_logs" tableName="shopnc_store_account_logs" domainObjectName="StoreAccountLogs" enableCountByExample="false" enableUpdateByExample="false"  
            enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">  
     </table>  
   
